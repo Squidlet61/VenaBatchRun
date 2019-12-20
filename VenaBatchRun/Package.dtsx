@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="12/20/2019 4:19:22 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="PROMETHIUM"
+  DTS:CreatorName="CAYMANCHEM\dw_admin"
+  DTS:DTSID="{C1C8E0DC-AC6C-4DB8-BAFD-9D8DAB8D0464}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3002.107"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{A8CECD9F-C0C8-4535-BBF6-6F8EDB6D2056}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
